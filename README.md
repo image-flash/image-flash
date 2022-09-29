@@ -4,7 +4,7 @@ to Viewing Time" while it is under double-blind review.
 
 The data is structured in the following way:
 
--[flash_data_release.zip](https://www.dropbox.com/scl/fo/v15ai0lk7osyg9iy47266/h?dl=0&rlkey=uqbd1bwunclwc3cakzeb3r5u5)
+- [flash_data_release.zip](https://www.dropbox.com/scl/fo/v15ai0lk7osyg9iy47266/h?dl=0&rlkey=uqbd1bwunclwc3cakzeb3r5u5)
 	-Human classification judgments from both mturk and in-lab
 	- experiments Cropped stimuli images and cropping script
 - [reproduce_results.zip](https://www.dropbox.com/scl/fo/v15ai0lk7osyg9iy47266/h?dl=0&rlkey=uqbd1bwunclwc3cakzeb3r5u5)
